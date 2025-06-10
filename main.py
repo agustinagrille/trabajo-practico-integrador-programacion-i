@@ -3,7 +3,7 @@ from tiempo import medir_tiempo
 from analisis import comparar_algoritmos
 
 def main():#Nuestra funcion principal
-    n = 10000 #incializo variable con valor 10000
+    n = 900 #incializo variable con valor 10000
 
     print(f"Calculando la suma de los primeros {n} números...\n")
 
