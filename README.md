@@ -7,11 +7,9 @@ El objetivo es **medir la eficiencia de cada algoritmo**, tanto en tiempo de eje
 ---
 ### 🎥 URL DE VIDEO EXPLICATIVO
 
-```
+
 [🎬 Enlace al video explicativo acá](https://www.youtube.com/watch?v=HaD9x7EGfWc)
 
-
-```
 ---
 
 ### 📂 Estructura del proyecto
