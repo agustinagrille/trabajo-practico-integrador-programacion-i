@@ -10,9 +10,9 @@ El objetivo es **medir la eficiencia de cada algoritmo**, tanto en tiempo de eje
 
 [🎬 Enlace al video explicativo acá](https://www.youtube.com/watch?v=HaD9x7EGfWc)
 
----
+```
 (https://www.youtube.com/watch?v=HaD9x7EGfWc)
----
+```
 
 
 ---
